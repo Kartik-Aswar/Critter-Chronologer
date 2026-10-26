@@ -1,0 +1,29 @@
+HELP.md
+target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Local IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+# Local logs and crash dumps
+*.log
+hs_err_pid*
